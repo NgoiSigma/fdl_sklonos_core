@@ -1,0 +1,5 @@
+home = C:\Users\РС\AppData\Local\Programs\Python\Python312
+include-system-site-packages = false
+version = 3.12.2
+executable = C:\Users\РС\AppData\Local\Programs\Python\Python312\python.exe
+command = C:\Users\РС\AppData\Local\Programs\Python\Python312\python.exe -m venv C:\Проекты\ПРОТОНОВЕЯ\fdl_sklonos_core\venv
