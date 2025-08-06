@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: fdl_sklonos_core
+Version: 0.1.0
+Summary: Σ-FDL Склоняющий Логос: Ядро падежного смысла и семантической навигации для ИИ и языка
+Author: NGOI / Fravahr Ormazd
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.8
+License-File: LICENSE.md
+Requires-Dist: networkx
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: classifier
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
